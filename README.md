@@ -6,7 +6,6 @@ Simple Telegram bot for VIP access verification and user synchronization.
 
 - User verification
 - VIP access gate
-- Admin notifications
 - Lightweight Python implementation
 
 ## Tech Stack
